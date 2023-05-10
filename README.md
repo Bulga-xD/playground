@@ -1,4 +1,4 @@
-# In the python code you have to find and fix 3 bugs .
+# In the python code you have to find and fix couple of bugs .
 
 
 # Suggestions:
